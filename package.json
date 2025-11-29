@@ -1,9 +1,9 @@
 {
-  "name": "course-directory-student-template",
-  "version": "1.4.4",
-  "description": "Course Catalog Template for Students",
+  "name": "arch-pc",
+  "version": "1.0.0",
+  "description": "Архитектура ЭВМ",
   "main": "index.js",
-  "repository": "git@github.com:yamadharma/course-directory-student-template.git",
+  "repository": "git@github.com:BereketDA/study_2025-2026_arh-pc.git",
   "author": "Dmitry S. Kulyabov <yamadharma@gmail.com>",
   "license": "CC-BY-4.0",
     "config": {
